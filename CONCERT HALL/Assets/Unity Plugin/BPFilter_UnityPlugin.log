@@ -1,0 +1,4 @@
+﻿  include_juce_audio_plugin_client_Unity.cpp
+     Creating library C:\Users\AAU113990\Desktop\JUCE project\BPFilter\Builds\VisualStudio2019\x64\Debug\Unity Plugin\audioplugin_BPFilter.lib and object C:\Users\AAU113990\Desktop\JUCE project\BPFilter\Builds\VisualStudio2019\x64\Debug\Unity Plugin\audioplugin_BPFilter.exp
+  BPFilter_UnityPlugin.vcxproj -> C:\Users\AAU113990\Desktop\JUCE project\BPFilter\Builds\VisualStudio2019\x64\Debug\Unity Plugin\audioplugin_BPFilter.dll
+          1 file(s) copied.

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/1.unity
+    guid: 90e97e6b89cf15142b49303512cb0aa6
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/2.unity
+    guid: 15e7c405d2ef46d4c9e3f6f03b4b7284
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/3.unity
+    guid: 71864ef0ea8b53d418a8f8e355ed8760
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/4.unity
+    guid: a97adde05b4e7534fb0e2e8a2615a1be
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/5.unity
+    guid: 808509e05016a054195cdbe2c42813d3
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/6.unity
+    guid: c0a44ea0da4f971439419521721e2a22
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/7.unity
+    guid: 6446a0b0359170a448a95f645a61bc53
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/8.unity
+    guid: 9832df8e71502ec418467f81d771b553
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/9.unity
+    guid: f497155bf57123e42942596d8fa01f9f
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/10.unity
+    guid: 0c5ceb2b92b101a47a471c9a37e61189
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/11.unity
+    guid: 1786401af7e53764f94b34659fe98987
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/12.unity
+    guid: 62c34170d83182249b8a81dc9a0ffa92
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/13.unity
+    guid: fc22332362b1cc648abb1fef0a4ae0eb
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/14.unity
+    guid: 0c2297a22d85ce54aa4d2d1adb20885e
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/15.unity
+    guid: 31620b8c3455fc54389c6b11dfedd1c5
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/16.unity
+    guid: 49db51e02ea020f43aaea814356ac004
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/17.unity
+    guid: 43b9df1ae5cafdf44ac41fd6f8c70e2f
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/18.unity
+    guid: 26980ce348b70524fb63d1848efa0ae2
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/19.unity
+    guid: fa094e37927e5b644ba379197071a77d
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/20.unity
+    guid: 1dbc5a38dafc97141a67b42f78fe2aad
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/21.unity
+    guid: 0890ba9948652d44b8433ee3a7b9e3f2
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/22.unity
+    guid: 46ea6071c7cd14b4584c6f717d149696
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/23.unity
+    guid: bfda7b4bd89a06441be5d6e5babf7af0
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/24.unity
+    guid: 599bc304fe782cf4d88e054c3dd0f3d1
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/50.unity
+    guid: 74ee8e15f41d47c4e926981132c53943
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/51.unity
+    guid: 130f4b59d6546ea4f8e1d6ffbbf91b96
+  - enabled: 1
+    path: Assets/Scenes/Scenes48/EndScene.unity
+    guid: 1bc435b5926347a4193619ca936b2485
+  m_configObjects: {}

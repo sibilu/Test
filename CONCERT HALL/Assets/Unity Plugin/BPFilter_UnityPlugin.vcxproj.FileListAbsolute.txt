@@ -1,0 +1,2 @@
+C:\Users\AAU113990\Desktop\JUCE project\BPFilter\Builds\VisualStudio2019\x64\Debug\Unity Plugin\audioplugin_BPFilter.dll
+C:\Users\AAU113990\Desktop\JUCE project\BPFilter\Builds\VisualStudio2019\x64\Debug\Unity Plugin\audioplugin_BPFilter.pdb
